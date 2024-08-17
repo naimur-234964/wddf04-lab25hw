@@ -1,0 +1,35 @@
+.border1{
+    border: 1px solid red;
+}
+.border2{
+    border: 1px solid green;
+}
+.border3{
+    border: 1px solid blue;
+}
+
+a{
+    text-decoration: none;
+}
+
+#navbar{}
+
+#header{
+    height: 100px;
+}
+
+#main{
+    height: 300px;
+}
+
+#article{
+    height: 200px;
+}
+
+#footer{
+    height: 200px;
+}
+
+p{
+    /* color: white; */
+}
